@@ -1,0 +1,1 @@
+# Semester 2 - Week 2 Coding Worksheet / Class Diagram, Data Schema and Supabase

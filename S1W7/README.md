@@ -1,0 +1,1 @@
+# Semester 1 - Week 7 Coding Worksheet / Explore the JavaScript Open Source community

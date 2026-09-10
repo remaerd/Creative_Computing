@@ -1,0 +1,1 @@
+# Semester 1 - Week 6 Coding Worksheet / HTTP Request & Local Storage

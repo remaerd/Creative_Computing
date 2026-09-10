@@ -1,0 +1,1 @@
+# Semester 1 - Week 1 Coding Worksheet / Agentic coding for static website
